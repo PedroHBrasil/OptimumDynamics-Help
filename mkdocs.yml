@@ -21,6 +21,38 @@ nav:
       - 3D Visualization: 3_Additional_Information/D_3D_Visualization.md
       - FAQ: 3_Additional_Information/E_FAQ.md
 
-theme: readthedocs
+
+theme: 
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  palette: 
+    primary: 'indigo'
+    accent: 'indigo'
+  logo: 'img/optimum_tire_icon.svg'
+  favicon: 'img/OptimumDynamics.ico'
+  language: 'en'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  feature:
+    tabs: false
+
+repo_name: 'Need further assistance?'
+repo_url: 'http://www.optimumg.com/contact/software-support/'
+
+extra:
+  social:
+    - type: 'globe'
+      link: 'http://www.optimumg.com/'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/OptimumG/'
+    - type: 'twitter'
+      link: 'https://twitter.com/g_optimum'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/optimumg/?hl=en'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company/optimumg'
+
+copyright: 'Copyright © OptimumG 2019'
 
 use_directory_urls: false
