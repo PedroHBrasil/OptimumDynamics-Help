@@ -28,7 +28,7 @@ theme:
   palette: 
     primary: 'indigo'
     accent: 'indigo'
-  logo: 'img/optimum_tire_icon.svg'
+  logo: 'img/OptimumDynamics.ico'
   favicon: 'img/OptimumDynamics.ico'
   language: 'en'
   font:
